@@ -1,0 +1,29 @@
+{
+  "name": "quizzy-backend",
+  "version": "1.0.0",
+  "description": "This is the backend repo for Quizzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sammuel09/quizzy-backend.git"
+  },
+  "keywords": [
+    "Quiz"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sammuel09/quizzy-backend/issues"
+  },
+  "homepage": "https://github.com/Sammuel09/quizzy-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "standard": "^13.0.2"
+  }
+}
